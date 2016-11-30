@@ -1,0 +1,63 @@
+----------------------------------------------------------------
+-- Computer Science 320 (Fall, 2016)
+-- Concepts of Programming Languages
+--
+-- Assignment 6
+--   tests2.mhs
+
+----------------------------------------------------------------
+-- More Test Code for the mini-Haskell Interpreter
+
+----------------------------------------------------------------
+-- This program lists all the prime numbers between 0 and 20.
+-- Note that it is a bit slow!
+
+let inc = (\x -> (+) x 1);
+
+     -- Try all products of count*m for fixed m
+     -- and count running up to max, and see if they
+     -- equal target; if they ever do equal target, return
+     -- false, otherwise, keep going.
+
+     tryProds = \f -> \target -> \max -> \count -> \m ->
+                    if ((==) count max) then
+                      True
+                    else
+                      if ((==) target ((*) count m)) then 
+                        False
+                      else
+                        f f target max (inc count) m;
+
+     -- This is the fixed point of tryProds.
+
+     tryProdsFix = \target -> \max -> \count -> \m ->
+                     tryProds tryProds target max count m;
+
+     -- Call tryProds for every "m" up to a maximum value,
+     -- and return True only if tryProds always returns True.
+
+     tryEachM = \f -> \target -> \max -> \count ->
+                     if ((==) count max) then
+                       True
+                     else
+                       (&&) (tryProdsFix target target 0 count)
+                            (f f target max (inc count));
+
+     tryEachMFix = \target -> \max -> \count ->
+                     tryEachM tryEachM target max count;
+ 
+     -- This functions lists all the primes up to 'max'.
+ 
+     listPrimes = \f -> \max -> \count ->
+                    if ((==) count max) then 
+                      []
+                    else
+                      if (tryEachMFix count count 0) then
+                        (:) count (f f max (inc count))
+                      else
+                        (f f max (inc count));
+
+     listPrimesFix = \min -> \max -> listPrimes listPrimes max min
+in
+   -- We list all the primes between 2 and 20 (very slowly).
+   listPrimesFix 2 20

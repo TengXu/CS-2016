@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+-- Computer Science 320 (Fall, 2016)
+-- Concepts of Programming Languages
+--
+-- Assignment 6
+--   tests1.mhs
+
+----------------------------------------------------------------
+-- Test Code for the mini-Haskell Interpreter
+
+----------------------------------------------------------------
+-- Expressions without variables
+
+-- Using ev0 in Eval.hs, this should evaluate to "[3,12,5,6]":
+
+if (not ((&&) (not (not True)) ((||) False True))) then
+   True True True
+else
+  if ( (||) ((==) ((||) False False) False) 
+            ((==) ((*) 2 3) ((+) 1 5))
+     ) then
+   (:) ((+) 1 2) ((:) ((*) 3 4) ((:) 5 ((:) 6 [])))
+  else
+   ()
+
+-- Note that the first branch should *not* be evaluated, as
+-- the condition does not evaluate to "True".
+
+   
