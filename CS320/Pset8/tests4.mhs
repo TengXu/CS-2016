@@ -1,0 +1,27 @@
+----------------------------------------------------------------
+-- Computer Science 320 (Fall, 2012)
+-- Concepts of Programming Languages
+--
+-- Assignment 8
+--   tests4.mhs
+
+----------------------------------------------------------------
+-- Test code for mini-Haskell Interpreter (Type Checking)
+
+----------------------------------------------------------------
+-- Expressions without variables
+
+-- Using ev0 in Eval.hs, this should evaluate to "[3,12,5,6]".
+-- It is well-typed, and should type check using ty0 as "[Int]".
+
+if (not ((&&) (not (not True)) ((||) False True))) then
+   []
+else
+  if ( (||) ((==) ((*) 1 1) 1) 
+            ((==) ((*) 2 3) ((+) 1 5))
+     ) then
+   (:) ((+) 1 2) ((:) ((*) 3 4) ((:) 5 ((:) 6 [])))
+  else
+   []
+
+   

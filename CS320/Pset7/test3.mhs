@@ -1,0 +1,5 @@
+let infinitetest = \a -> \b -> b;
+in
+   infinitetest (infin [1]) [1,2,3]
+        where
+        infin a = a ++ (infin a)

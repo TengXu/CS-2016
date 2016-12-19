@@ -1,0 +1,5 @@
+let infine = \a -> \b -> a b;
+    infinitething = infine (\x -> x x) (\x -> x x);
+    f = \x -> \y -> (*) x x
+in
+   f 3 infinitething
