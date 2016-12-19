@@ -1,0 +1,50 @@
+memcpy (8 instructions) 
+LUI - set (singed) rd value to sign-extended immediate.
+ADDI - set (singed) rd value to rs1 value add immediate.
+SW - set word at memory address immediate add rs1 value to rs2 value.
+JAL - set pc to immediate add old pc. set rd value to old pc add sizeof instruction. return INST_PC_SET.
+LBU - set rd value to byte at memory address immediate add rs1 value.
+SB - set byte at memory address immediate add rs1 value to rs2 value.
+BNE - if rs1 value not equal rs2 value, set pc to old pc add immediate. return INST_PC_SET.
+SBREAK - return INST_EXIT
+
+concpy (2 instructions) 
+ADD - set (signed) rd value to rs1 value add rs2 value
+AND - set (signed) rd value to rs1 value AND rs2 value
+
+func (16 instructions) 
+AUIPC - set (signed) rd value to (signed) old pc add immediate
+SD - set double at memory address immediate add rs1 value to rs2 value. 
+BLTU - if rs1 value less than rs2 value, set pc to (singed) old pc add immediate
+LD -  set rd value to double from memory address imm add rs1 value
+BEQ -  if rs1 value equal to rs2 value, set pc to (singed) old pc add immediate. return INST_PC_SET.
+LW - set (signed) rd value to word at memory address immediate plus rs1 value. sign cast word before extend.
+ADDIW - set rd register to (signed) rs1 value add immediate
+BGE - if (singed) rs1 value greater-or-equals (singed) rs2 value, set pc to (signed) old pc add immediate. return INST_PC_SET.
+SLLI_RV64I - set rd value to rs1 value shifted by lower 6 bits of immediate (mask 0x3F)
+JALR - set pc to rs1 value add immediate (+clear lowest bit). Set rd value to old pc + instruction size
+SUB - set signed rd value to rs1 value minus rs2 value
+SRAI_RV64I - set (signed) rd value to rs1 value arithmetic right shifted by lower 6 bits of immediate (mask 0x3F)
+SRLI_RV64I - set rd value to rs1 value logical right shifted by lower 6 bits of immediate (mask 0x3F)
+SUBW - set (signed) rd value to rs1 value minus rs2 value
+SLLW - set (signed) rd value to rs1 value left shifted by lower 5 bits of immediate (mask 0x1F)
+BGEU - if rs1 value greater-or-equals rs2 value, set pc to (signed) old pc add immediate. return INST_PC_SET.
+
+printf (15 instructions)
+ANDI - set rd value to rs1 value anded with immediate 
+OR - set rd value to rs1 value OR rs2 value
+LH - set rd value to halfword at memory address immediate add rs1 value. sign cast doubleword before extend.
+BLT - if (signed) rs1 value less than (singed) rs2 value, set pc to (signed) old pc add immediate. return INST_PC_SET.
+SH - Set halfword at memory address immediate plus rs1 value to rs2 value
+LHU - set rd value to halfword value at memory address immediate plus immediate. 
+ADDW - set rd value to sum of rs1 value add rs2 value.
+SLTIU - if sign extend immediate greater than rs1 value (unsigned compare) set rd value to 1, else set rd value to 0
+XORI - set rd value to rs1 value XOR sign-extended immediate 
+SLLIW - set (signed) rd value to rs1 value left shifted by lower 5 bits of immediate (mask 0x1F)
+SRAIW - set (signed) rd value to rs1 value arithmetically right shifted by lower 5 bits of immediate (mask 0x1F)
+SLL -  set (signed) rd value to rs1 value left shifted by lower 5 bits of rs2 value (mask 0x1F)
+ORI - set rd value to rs1 value OR immediate 
+XOR - set rd value to rs1 value XOR rs2 value
+STLU - if rs2 value greater than rs1 value (unsigned compare) set rd value to 1, else set rd value to 0
+
+Total: 41 instructions 

@@ -1,0 +1,686 @@
+Archive member included to satisfy reference by file (symbol)
+
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/crt0.o (atexit)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/crt0.o (exit)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/crt0.o (__libc_fini_array)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/crt0.o (__libc_init_array)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+                              printf-64.o (puts)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o) (strlen)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o) (__register_exitproc)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o) (__call_exitprocs)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o) (__sfvwrite_r)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o) (_malloc_r)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o) (memchr)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o) (memcpy)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o) (memmove)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o) (__swsetup_r)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o) (_fflush_r)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o) (__sinit)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o) (_free_r)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o) (_fwalk)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memset.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o) (memset)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o) (__sread)
+/research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o) (_fclose_r)
+/research/sesa/210/buriscv/lib/libsys-64.a(sbrk-64.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o) (sbrk)
+/research/sesa/210/buriscv/lib/libsys-64.a(read-64.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o) (read)
+/research/sesa/210/buriscv/lib/libsys-64.a(write-64.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o) (write)
+/research/sesa/210/buriscv/lib/libsys-64.a(isatty-64.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o) (isatty)
+/research/sesa/210/buriscv/lib/libsys-64.a(lseek-64.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o) (lseek)
+/research/sesa/210/buriscv/lib/libsys-64.a(close-64.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o) (close)
+/research/sesa/210/buriscv/lib/libsys-64.a(fstat-64.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o) (fstat)
+/research/sesa/210/buriscv/lib/libsys-64.a(_exit-64.o)
+                              /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o) (_exit)
+/research/sesa/210/buriscv/lib/libsys-64.a(errno-64.o)
+                              /research/sesa/210/buriscv/lib/libsys-64.a(read-64.o) (errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /research/sesa/210/buriscv/lib/libsys-64.a(errno-64.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+state            0x0000000000000000 0x0000000000100000 axwl
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/crt0.o
+LOAD /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+LOAD /tmp/cc3srObO.o
+LOAD printf-64.o
+LOAD /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/libgcc.a
+LOAD /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/libgcc.a
+LOAD /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtend.o
+START GROUP
+LOAD /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a
+LOAD /research/sesa/210/buriscv/lib/libsys-64.a
+LOAD /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/libgcc.a
+END GROUP
+
+RAM             0x0000000000000000   0x100000
+                0x0000000000000000                _ram_start = .
+                0x0000000000000100                . = 0x100
+ *fill*         0x0000000000000000      0x100 
+                0x0000000000000100                _vector_start = .
+                0x0000000000000100                . = (_vector_start + 0x0)
+                0x0000000000000100                _vector_user = .
+                0x0000000000000100        0x4 LONG 0x100073
+                0x0000000000000140                . = (_vector_start + 0x40)
+ *fill*         0x0000000000000104       0x3c 
+                0x0000000000000140                _vector_supervisor = .
+                0x0000000000000140        0x4 LONG 0x100073
+                0x0000000000000180                . = (_vector_start + 0x80)
+ *fill*         0x0000000000000144       0x3c 
+                0x0000000000000180                _vector_hypervisor = .
+                0x0000000000000180        0x4 LONG 0x100073
+                0x00000000000001c0                . = (_vector_start + 0xc0)
+ *fill*         0x0000000000000184       0x3c 
+                0x00000000000001c0                _vector_machine = .
+                0x00000000000001c0        0x4 LONG 0x100073
+                0x00000000000001fc                . = (_vector_start + 0xfc)
+ *fill*         0x00000000000001c4       0x38 
+                0x00000000000001fc                _vector_nmi = .
+                0x00000000000001fc        0x4 LONG 0x100073
+                0x0000000000000200                . = (_vector_start + 0x100)
+                0x0000000000000200                _vector_reset = .
+ *(.reset)
+ .reset         0x0000000000000200       0x34 /tmp/cc3srObO.o
+                0x0000000000010000                . = 0x10000
+ *fill*         0x0000000000000234     0xfdcc 
+                0x0000000000010000                _ftext = .
+                0x0000000000010000                PROVIDE (eprol, .)
+ *(.text)
+ .text          0x0000000000010000       0x4c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/crt0.o
+                0x0000000000010000                _start
+                0x0000000000010048                _init
+                0x0000000000010048                _fini
+ .text          0x000000000001004c      0x104 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+ .text          0x0000000000010150        0x0 /tmp/cc3srObO.o
+ .text          0x0000000000010150        0x0 printf-64.o
+ .text          0x0000000000010150        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtend.o
+ .text          0x0000000000010150       0x14 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+                0x0000000000010150                atexit
+ .text          0x0000000000010164       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+                0x0000000000010164                exit
+ .text          0x0000000000010194       0x5c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+                0x0000000000010194                __libc_fini_array
+ .text          0x00000000000101f0        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+ .text          0x00000000000101f0       0xa0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+                0x00000000000101f0                __libc_init_array
+ .text          0x0000000000010290       0xbc /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+                0x0000000000010290                _puts_r
+                0x0000000000010340                puts
+ .text          0x000000000001034c       0xcc /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+                0x000000000001034c                strlen
+ .text          0x0000000000010418      0x100 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+                0x0000000000010418                __register_exitproc
+ .text          0x0000000000010518      0x18c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+                0x0000000000010518                __call_exitprocs
+ .text          0x00000000000106a4      0x4b4 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+                0x00000000000106a4                __sfvwrite_r
+ .text          0x0000000000010b58      0x7c4 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+                0x0000000000010b58                _malloc_r
+ .text          0x000000000001131c       0xe0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+                0x000000000001131c                memchr
+ .text          0x00000000000113fc      0x120 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+                0x00000000000113fc                memcpy
+ .text          0x000000000001151c      0x120 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+                0x000000000001151c                memmove
+ .text          0x000000000001163c        0x8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+                0x000000000001163c                __malloc_lock
+                0x0000000000011640                __malloc_unlock
+ .text          0x0000000000011644      0x578 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+                0x0000000000011644                _realloc_r
+ .text          0x0000000000011bbc      0x164 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+                0x0000000000011bbc                __swsetup_r
+ .text          0x0000000000011d20      0x2e8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+                0x0000000000011d20                __sflush_r
+                0x0000000000011f8c                _fflush_r
+                0x0000000000011fe8                fflush
+ .text          0x0000000000012008      0x370 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+                0x0000000000012010                _cleanup_r
+                0x00000000000121b4                __sfmoreglue
+                0x0000000000012220                __sfp
+                0x0000000000012328                _cleanup
+                0x0000000000012338                __sinit
+                0x0000000000012348                __sfp_lock_acquire
+                0x000000000001234c                __sfp_lock_release
+                0x0000000000012350                __sinit_lock_acquire
+                0x0000000000012354                __sinit_lock_release
+                0x0000000000012358                __fp_lock_all
+                0x0000000000012368                __fp_unlock_all
+ .text          0x0000000000012378      0x424 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+                0x0000000000012378                _malloc_trim_r
+                0x0000000000012490                _free_r
+ .text          0x000000000001279c      0x170 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+                0x000000000001279c                _fwalk
+                0x000000000001284c                _fwalk_reent
+ .text          0x000000000001290c      0x1ac /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+                0x000000000001290c                __smakebuf_r
+ .text          0x0000000000012ab8       0xdc /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memset.o)
+                0x0000000000012ab8                memset
+ .text          0x0000000000012b94      0x150 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+                0x0000000000012b94                __sread
+                0x0000000000012bf8                __seofread
+                0x0000000000012c00                __swrite
+                0x0000000000012c70                __sseek
+                0x0000000000012cdc                __sclose
+ .text          0x0000000000012ce4      0x110 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+                0x0000000000012ce4                _fclose_r
+                0x0000000000012de8                fclose
+ .text          0x0000000000012df4       0x2c /research/sesa/210/buriscv/lib/libsys-64.a(sbrk-64.o)
+                0x0000000000012df4                sbrk
+ .text          0x0000000000012e20       0x48 /research/sesa/210/buriscv/lib/libsys-64.a(read-64.o)
+                0x0000000000012e20                read
+ .text          0x0000000000012e68       0x68 /research/sesa/210/buriscv/lib/libsys-64.a(write-64.o)
+                0x0000000000012e68                write
+ .text          0x0000000000012ed0        0x8 /research/sesa/210/buriscv/lib/libsys-64.a(isatty-64.o)
+                0x0000000000012ed0                isatty
+ .text          0x0000000000012ed8        0x8 /research/sesa/210/buriscv/lib/libsys-64.a(lseek-64.o)
+                0x0000000000012ed8                lseek
+ .text          0x0000000000012ee0        0x8 /research/sesa/210/buriscv/lib/libsys-64.a(close-64.o)
+                0x0000000000012ee0                close
+ .text          0x0000000000012ee8       0x10 /research/sesa/210/buriscv/lib/libsys-64.a(fstat-64.o)
+                0x0000000000012ee8                fstat
+ .text          0x0000000000012ef8        0x8 /research/sesa/210/buriscv/lib/libsys-64.a(_exit-64.o)
+                0x0000000000012ef8                _exit
+ .text          0x0000000000012f00        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(errno-64.o)
+ *(.text.*)
+ .text.startup  0x0000000000012f00       0x24 printf-64.o
+                0x0000000000012f00                main
+ *(.gnu.linkonce.t.*)
+ *(.init)
+ *(.fini)
+ *(.rdata)
+ *(.rodata)
+ *(.rodata.*)
+ *fill*         0x0000000000012f24        0x4 
+ .rodata.str1.8
+                0x0000000000012f28        0xf printf-64.o
+ *fill*         0x0000000000012f37        0x1 
+ .rodata.str1.8
+                0x0000000000012f38        0x2 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+ *fill*         0x0000000000012f3a        0x6 
+ .rodata.str1.8
+                0x0000000000012f40        0x8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+                                          0x2 (size before relaxing)
+ *(.gnu.linkonce.r.*)
+                0x0000000000012f48                PROVIDE (etext, .)
+                0x0000000000012f48                _etext = .
+                0x0000000000012f48                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000000012f48                PROVIDE (__preinit_array_end, .)
+                0x0000000000012f48                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000000012f48        0x8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+                0x0000000000012f50                PROVIDE (__init_array_end, .)
+                0x0000000000012f50                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000000012f50        0x8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+                0x0000000000012f58                PROVIDE (__fini_array_end, .)
+ *(.eh_frame_hdr)
+ *(.eh_frame)
+ .eh_frame      0x0000000000012f58        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+ .eh_frame      0x0000000000012f58        0x4 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtend.o
+ *fill*         0x0000000000012f5c        0x4 
+ .eh_frame      0x0000000000012f60       0x28 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+ .eh_frame      0x0000000000012f88       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+ .eh_frame      0x0000000000012fb8       0x38 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+ .eh_frame      0x0000000000012ff0       0x38 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+ .eh_frame      0x0000000000013028       0x48 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+ .eh_frame      0x0000000000013070       0x28 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .eh_frame      0x0000000000013098       0x38 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+ .eh_frame      0x00000000000130d0       0x50 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+ .eh_frame      0x0000000000013120       0x90 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+ .eh_frame      0x00000000000131b0       0x50 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+ .eh_frame      0x0000000000013200       0x28 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+ .eh_frame      0x0000000000013228       0x28 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+ .eh_frame      0x0000000000013250       0x28 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+ .eh_frame      0x0000000000013278       0x40 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+ .eh_frame      0x00000000000132b8       0x48 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+ .eh_frame      0x0000000000013300       0x38 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+ .eh_frame      0x0000000000013338       0x68 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+ .eh_frame      0x00000000000133a0      0x170 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+ .eh_frame      0x0000000000013510       0x70 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+ .eh_frame      0x0000000000013580       0x78 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+ .eh_frame      0x00000000000135f8       0x40 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+ .eh_frame      0x0000000000013638       0x98 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+ .eh_frame      0x00000000000136d0       0x58 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+ *(.gcc_except_table)
+ *(.jcr)
+ .jcr           0x0000000000013728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+ .jcr           0x0000000000013728        0x8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtend.o
+                0x0000000000013730                . = ALIGN (0x10)
+                0x0000000000013730                _fdata = .
+ *(.data)
+ .data          0x0000000000013730        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/crt0.o
+ .data          0x0000000000013730        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+ .data          0x0000000000013730        0x0 /tmp/cc3srObO.o
+ .data          0x0000000000013730        0x0 printf-64.o
+ .data          0x0000000000013730        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtend.o
+ .data          0x0000000000013730        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+ .data          0x0000000000013730        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+ .data          0x0000000000013730        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+ .data          0x0000000000013730      0x748 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+ .data          0x0000000000013e78        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+ .data          0x0000000000013e78        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+ .data          0x0000000000013e78        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .data          0x0000000000013e78        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000013e78        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000013e78        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+ .data          0x0000000000013e78      0x810 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+                0x0000000000013e78                __malloc_av_
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memset.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(sbrk-64.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(read-64.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(write-64.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(isatty-64.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(lseek-64.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(close-64.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(fstat-64.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(_exit-64.o)
+ .data          0x0000000000014688        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(errno-64.o)
+ *(.data.*)
+ *(.gnu.linkonce.d.*)
+                0x0000000000014688                PROVIDE (edata, .)
+                0x0000000000014688                _edata = .
+                0x0000000000014690                . = ALIGN (0x10)
+ *fill*         0x0000000000014688        0x8 
+                0x0000000000014e90                _gp = (. + 0x800)
+ *(.sdata)
+ .sdata         0x0000000000014690        0x8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+                0x0000000000014690                __dso_handle
+ .sdata         0x0000000000014698       0x10 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+                0x0000000000014698                _global_impure_ptr
+                0x00000000000146a0                _impure_ptr
+ .sdata         0x00000000000146a8       0x10 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+                0x00000000000146a8                __malloc_sbrk_base
+                0x00000000000146b0                __malloc_trim_threshold
+ *(.sdata.*)
+ *(.srodata.*)
+ .srodata.cst8  0x00000000000146b8        0x8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .srodata.cst8  0x00000000000146c0       0x10 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+ *(.gnu.linkonce.s.*)
+                0x00000000000146d0                . = ALIGN (0x8)
+                0x00000000000146d0                _fbss = .
+ *(.sbss)
+ .sbss          0x00000000000146d0       0x18 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+                0x00000000000146d0                __malloc_max_total_mem
+                0x00000000000146d8                __malloc_max_sbrked_mem
+                0x00000000000146e0                __malloc_top_pad
+ .sbss          0x00000000000146e8        0x8 /research/sesa/210/buriscv/lib/libsys-64.a(sbrk-64.o)
+ *(.sbss.*)
+ *(.gnu.linkonce.sb.*)
+                0x00000000000146f0                . = .
+                0x00000000000146f0                _bss_start = .
+ *(.bss)
+ .bss           0x00000000000146f0        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/crt0.o
+ .bss           0x00000000000146f0       0x38 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+ .bss           0x0000000000014728        0x0 /tmp/cc3srObO.o
+ .bss           0x0000000000014728        0x0 printf-64.o
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtend.o
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000014728        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+ .bss           0x0000000000014728       0x28 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+                0x0000000000014728                __malloc_current_mallinfo
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memset.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(sbrk-64.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(read-64.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(write-64.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(isatty-64.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(lseek-64.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(close-64.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(fstat-64.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(_exit-64.o)
+ .bss           0x0000000000014750        0x0 /research/sesa/210/buriscv/lib/libsys-64.a(errno-64.o)
+ *(.bss.*)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+ COMMON         0x0000000000014750        0x4 /research/sesa/210/buriscv/lib/libsys-64.a(errno-64.o)
+                0x0000000000014750                errno
+                0x0000000000014754                PROVIDE (end, .)
+                0x0000000000014758                _end = ALIGN (0x8)
+                0x0000000000100000                . = 0x100000
+ *fill*         0x0000000000014754    0xeb8ac 
+                0x0000000000100000                _stack_start = .
+                0x0000000000100000                _ram_end = .
+OUTPUT(printf1M-64.elf elf64-littleriscv)
+
+.rela.dyn       0x0000000000100000        0x0
+ .rela.text     0x0000000000100000        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/crt0.o
+ .rela.text.startup
+                0x0000000000100000        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/crt0.o
+
+.tm_clone_table
+                0x0000000000100000        0x0
+ .tm_clone_table
+                0x0000000000100000        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+ .tm_clone_table
+                0x0000000000100000        0x0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtend.o
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x11 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtbegin.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 printf-64.o
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/no-atomic/crtend.o
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/lib/libsys-64.a(sbrk-64.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/lib/libsys-64.a(read-64.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/lib/libsys-64.a(write-64.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/lib/libsys-64.a(isatty-64.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/lib/libsys-64.a(lseek-64.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/lib/libsys-64.a(close-64.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/lib/libsys-64.a(fstat-64.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/lib/libsys-64.a(_exit-64.o)
+ .comment       0x0000000000000011       0x12 /research/sesa/210/buriscv/lib/libsys-64.a(errno-64.o)
+
+.debug_info     0x0000000000000000     0xc084
+ .debug_info    0x0000000000000000      0x10e /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+ .debug_info    0x000000000000010e      0x901 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+ .debug_info    0x0000000000000a0f      0x10a /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+ .debug_info    0x0000000000000b19      0x8b2 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+ .debug_info    0x00000000000013cb      0x120 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+ .debug_info    0x00000000000014eb      0xa2a /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+ .debug_info    0x0000000000001f15      0x193 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .debug_info    0x00000000000020a8      0x94d /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+ .debug_info    0x00000000000029f5      0x981 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000003376      0xc05 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+ .debug_info    0x0000000000003f7b      0xdc3 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+ .debug_info    0x0000000000004d3e      0x13e /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+ .debug_info    0x0000000000004e7c      0x277 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+ .debug_info    0x00000000000050f3      0x144 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+ .debug_info    0x0000000000005237      0x8c3 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+ .debug_info    0x0000000000005afa      0xcdf /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+ .debug_info    0x00000000000067d9      0x951 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+ .debug_info    0x000000000000712a      0xae1 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+ .debug_info    0x0000000000007c0b      0xded /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+ .debug_info    0x00000000000089f8      0xc3a /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+ .debug_info    0x0000000000009632      0x9d0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+ .debug_info    0x000000000000a002      0xae8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+ .debug_info    0x000000000000aaea      0xb3c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+ .debug_info    0x000000000000b626      0xa5e /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+
+.debug_abbrev   0x0000000000000000     0x2adb
+ .debug_abbrev  0x0000000000000000       0xa8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x00000000000000a8      0x1e1 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000289       0xbb /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000344      0x18b /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000000004cf       0xb8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000587      0x23c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+ .debug_abbrev  0x00000000000007c3       0xc2 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000000885      0x21a /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000a9f      0x22a /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000000cc9      0x224 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x0000000000000eed      0x2a8 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x0000000000001195       0xa9 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+ .debug_abbrev  0x000000000000123e       0xf1 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x000000000000132f       0xa9 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x00000000000013d8      0x1b7 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x000000000000158f      0x245 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x00000000000017d4      0x203 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x00000000000019d7      0x28b /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x0000000000001c62      0x362 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000000000001fc4      0x26f /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x0000000000002233      0x1cd /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x0000000000002400      0x1fa /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x00000000000025fa      0x243 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x000000000000283d      0x29e /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+
+.debug_loc      0x0000000000000000     0x7109
+ .debug_loc     0x0000000000000000       0x4c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+ .debug_loc     0x000000000000004c       0x36 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000082       0x6e /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+ .debug_loc     0x00000000000000f0       0xe4 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+ .debug_loc     0x00000000000001d4      0x178 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+ .debug_loc     0x000000000000034c      0x5d4 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000000920      0x1f4 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000b14      0x357 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000000000000e6b      0x953 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x00000000000017be     0x11db /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x0000000000002999      0x31d /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+ .debug_loc     0x0000000000002cb6      0x5ce /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+ .debug_loc     0x0000000000003284      0x4f5 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+ .debug_loc     0x0000000000003779     0x17db /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+ .debug_loc     0x0000000000004f54       0xf4 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+ .debug_loc     0x0000000000005048      0x56f /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+ .debug_loc     0x00000000000055b7      0x45f /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+ .debug_loc     0x0000000000005a16      0x8c2 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+ .debug_loc     0x00000000000062d8      0x36d /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+ .debug_loc     0x0000000000006645      0x200 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+ .debug_loc     0x0000000000006845      0x59d /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+ .debug_loc     0x0000000000006de2      0x327 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+
+.debug_aranges  0x0000000000000000      0x470
+ .debug_aranges
+                0x0000000000000000       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000030       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000060       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000090       0x20 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000000b0       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+ .debug_aranges
+                0x00000000000000e0       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+ .debug_aranges
+                0x0000000000000110       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000140       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000170       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000000000001a0       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x00000000000001d0       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x0000000000000200       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+ .debug_aranges
+                0x0000000000000230       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000260       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000290       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x00000000000002c0       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x00000000000002f0       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x0000000000000320       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x0000000000000350       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x0000000000000380       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x00000000000003b0       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x00000000000003e0       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x0000000000000410       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x0000000000000440       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+
+.debug_line     0x0000000000000000     0x8071
+ .debug_line    0x0000000000000000      0x147 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000147      0x363 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+ .debug_line    0x00000000000004aa      0x181 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+ .debug_line    0x000000000000062b      0x260 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+ .debug_line    0x000000000000088b      0x20d /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+ .debug_line    0x0000000000000a98      0x458 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+ .debug_line    0x0000000000000ef0      0x45c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .debug_line    0x000000000000134c      0x47b /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+ .debug_line    0x00000000000017c7      0x50b /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000001cd2      0xa54 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+ .debug_line    0x0000000000002726      0xe20 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+ .debug_line    0x0000000000003546      0x2e3 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+ .debug_line    0x0000000000003829      0x448 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000003c71      0x300 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+ .debug_line    0x0000000000003f71      0x26c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+ .debug_line    0x00000000000041dd      0x9fa /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+ .debug_line    0x0000000000004bd7      0x540 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+ .debug_line    0x0000000000005117      0x803 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+ .debug_line    0x000000000000591a      0x9d4 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+ .debug_line    0x00000000000062ee      0x906 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+ .debug_line    0x0000000000006bf4      0x4aa /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+ .debug_line    0x000000000000709e      0x5c6 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+ .debug_line    0x0000000000007664      0x581 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+ .debug_line    0x0000000000007be5      0x48c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+
+.debug_str      0x0000000000000000     0x15e1
+ .debug_str     0x0000000000000000      0x169 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-atexit.o)
+                                        0x1a9 (size before relaxing)
+ .debug_str     0x0000000000000169      0x421 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-exit.o)
+                                        0x54f (size before relaxing)
+ .debug_str     0x000000000000058a       0xb0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fini.o)
+                                        0x1a3 (size before relaxing)
+ .debug_str     0x000000000000063a       0x83 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-impure.o)
+                                        0x547 (size before relaxing)
+ .debug_str     0x00000000000006bd       0xda /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-init.o)
+                                        0x1cd (size before relaxing)
+ .debug_str     0x0000000000000797       0xd2 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-puts.o)
+                                        0x596 (size before relaxing)
+ .debug_str     0x0000000000000869       0xa3 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+                                        0x1a7 (size before relaxing)
+ .debug_str     0x000000000000090c       0x7a /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__atexit.o)
+                                        0x587 (size before relaxing)
+ .debug_str     0x0000000000000986       0xa0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+                                        0x573 (size before relaxing)
+ .debug_str     0x0000000000000a26       0xdf /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+                                        0x5d9 (size before relaxing)
+ .debug_str     0x0000000000000b05      0x264 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+                                        0x748 (size before relaxing)
+ .debug_str     0x0000000000000d69       0x8d /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memchr.o)
+                                        0x186 (size before relaxing)
+ .debug_str     0x0000000000000df6       0x8a /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+                                        0x194 (size before relaxing)
+ .debug_str     0x0000000000000e80       0x9a /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memmove.o)
+                                        0x19f (size before relaxing)
+ .debug_str     0x0000000000000f1a       0x8c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mlock.o)
+                                        0x541 (size before relaxing)
+ .debug_str     0x0000000000000fa6       0x4e /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+                                        0x627 (size before relaxing)
+ .debug_str     0x0000000000000ff4       0x9c /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+                                        0x566 (size before relaxing)
+ .debug_str     0x0000000000001090       0xa7 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+                                        0x5a7 (size before relaxing)
+ .debug_str     0x0000000000001137      0x157 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+                                        0x65d (size before relaxing)
+ .debug_str     0x000000000000128e       0x34 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-freer.o)
+                                        0x692 (size before relaxing)
+ .debug_str     0x00000000000012c2       0x85 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fwalk.o)
+                                        0x54c (size before relaxing)
+ .debug_str     0x0000000000001347      0x15d /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-makebuf.o)
+                                        0x655 (size before relaxing)
+ .debug_str     0x00000000000014a4       0xb0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-stdio.o)
+                                        0x586 (size before relaxing)
+ .debug_str     0x0000000000001554       0x8d /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
+                                        0x594 (size before relaxing)
+
+.debug_ranges   0x0000000000000000      0x560
+ .debug_ranges  0x0000000000000000       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-strlen.o)
+ .debug_ranges  0x0000000000000030       0x50 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000080       0x40 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fvwrite.o)
+ .debug_ranges  0x00000000000000c0       0x50 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x0000000000000110       0x30 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-memcpy.o)
+ .debug_ranges  0x0000000000000140      0x230 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-reallocr.o)
+ .debug_ranges  0x0000000000000370       0x40 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-wsetup.o)
+ .debug_ranges  0x00000000000003b0       0x70 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fflush.o)
+ .debug_ranges  0x0000000000000420       0xd0 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-findfp.o)
+ .debug_ranges  0x00000000000004f0       0x70 /research/sesa/210/buriscv/multilib/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/no-atomic/libc.a(lib_a-fclose.o)
